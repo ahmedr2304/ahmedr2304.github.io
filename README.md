@@ -16,7 +16,7 @@ This repository contains the production-ready static website for **ahmedr2304.gi
 - `assets/data/site-content.json` — key personal links and maintenance notes
 - `assets/documents/` — resume and professional PDF documents
 - `assets/images/` — optimized images and social preview
-- `DEPLOYMENT_GUIDE_AR.md` — Arabic publishing guide
+
 
 ## Important confidentiality rules
 - Do not add the name of the current government entity.
