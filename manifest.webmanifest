@@ -1,0 +1,15 @@
+{
+  "name": "Ahmed Ramadan \u2014 Senior Software Engineer",
+  "short_name": "Ahmed Ramadan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061326",
+  "theme_color": "#061326",
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

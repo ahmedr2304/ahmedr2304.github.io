@@ -1,0 +1,21 @@
+{
+  "siteName": "Ahmed Ramadan",
+  "role": "Senior Software Engineer",
+  "headline": "Building Enterprise Solutions that Drive Real Impact",
+  "location": "Riyadh, Saudi Arabia",
+  "email": "ahmedr2304@gmail.com",
+  "github": "https://github.com/ahmedr2304",
+  "linkedin": "https://www.linkedin.com/in/ahmedramadan2304/",
+  "internalDesignReference": "موقع أحمد رمضان بدون الذكاء الاصطناعى",
+  "notes": [
+    "Do not publish the internal design reference name on the live website.",
+    "Do not publish the current government entity name or confidential system details.",
+    "AI-assisted development and automation remain a supporting professional-development track."
+  ],
+  "animationLibrary": "Anime.js 3.2.2",
+  "finalRefinements": [
+    "White Download Resume buttons in both themes",
+    "Enhanced professional impact metrics with SVG icons and animated values",
+    "Reduced-motion accessibility support"
+  ]
+}
